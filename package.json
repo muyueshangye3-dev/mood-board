@@ -4,7 +4,7 @@
   "description": "[![Translate](https://translate.codeberg.org/widget/tinyib/tinyib/svg-badge.svg)](https://translate.codeberg.org/projects/tinyib/tinyib/) [![Donate](https://img.shields.io/liberapay/receives/rocket9labs.com.svg?logo=liberapay)](https://liberapay.com/rocket9labs.com)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
