@@ -2,9 +2,9 @@
   "name": "tinyib-master",
   "version": "1.0.0",
   "description": "[![Translate](https://translate.codeberg.org/widget/tinyib/tinyib/svg-badge.svg)](https://translate.codeberg.org/projects/tinyib/tinyib/) [![Donate](https://img.shields.io/liberapay/receives/rocket9labs.com.svg?logo=liberapay)](https://liberapay.com/rocket9labs.com)",
-  "main": "index.js",
+  "main": "tinyib.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node tinyib.js"
   },
   "repository": {
     "type": "git",
